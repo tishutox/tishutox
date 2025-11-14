@@ -1,3 +1,5 @@
+![Header](./your-header-image-name.png)
+
 ## Hoiii fellas!
 
 I'm [Armand](https://www.instagram.com/tishutox), a tutor based in Germany.</br>
